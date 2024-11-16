@@ -28,16 +28,5 @@
 - Love exploring new tech and collaborating with like-minded individuals!  
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
----
-
-### **Steps to Publish**
-1. Save the above template in your `README.md` file in your GitHub `<your-username>` repository.
-2. Push the changes to GitHub.
-3. View your profile for the updated look.
-
----
-
-Let me know if you'd like help customizing the links or integrating additional features like GitHub streaks! 😊
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeshaniSandunika&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeshaniSandunika&layout=compact&theme=radical)  
